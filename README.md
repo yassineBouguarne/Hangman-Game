@@ -1,2 +1,2 @@
 # Hangman-Game
- 
+This is a classic Hangman game implemented in Python. The game randomly selects a word from a predefined list, and the player needs to guess the letters to uncover the hidden word. The player has a limited number of lives, and with each incorrect guess, a part of the hangman is drawn. The game provides an interactive and entertaining way to test your vocabulary and guessing skills. Have fun playing and see if you can guess the word before running out of lives!
